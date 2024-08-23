@@ -1,0 +1,154 @@
+{
+  "aton": {
+    "width": 32,
+    "height": 58,
+    "x": 400,
+    "y": 2,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-cargo": {
+    "width": 32,
+    "height": 44,
+    "x": 14,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-fish": {
+    "width": 32,
+    "height": 44,
+    "x": 46,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-highspeed": {
+    "width": 32,
+    "height": 44,
+    "x": 78,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-others": {
+    "width": 32,
+    "height": 44,
+    "x": 110,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-passenger": {
+    "width": 32,
+    "height": 44,
+    "x": 142,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-tanker": {
+    "width": 32,
+    "height": 44,
+    "x": 174,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-tug": {
+    "width": 32,
+    "height": 44,
+    "x": 206,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-yacht": {
+    "width": 32,
+    "height": 44,
+    "x": 238,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-fleet": {
+    "width": 32,
+    "height": 44,
+    "x": 270,
+    "y": 10,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-cargo-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 12,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-fish-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 48,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-highspeed-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 84,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-others-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 120,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-passenger-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 156,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-tanker-stationary": {
+    "width": 32,
+    "height": 32,
+    "x": 192,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-tug-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 228,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-yacht-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 264,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "vessel-fleet-stationary": {
+    "width": 36,
+    "height": 36,
+    "x": 300,
+    "y": 64,
+    "pixelRatio": 2,
+    "visible": true
+  }
+}
