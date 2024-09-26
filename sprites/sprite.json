@@ -150,5 +150,13 @@
     "y": 32,
     "pixelRatio": 1,
     "visible": true
+  },
+  "townspot": {
+    "width": 10,
+    "height": 10,
+    "x": 248,
+    "y": 7,
+    "pixelRatio": 1,
+    "visible": true
   }
 }
